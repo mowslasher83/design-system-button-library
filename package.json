@@ -6,7 +6,7 @@
     "build": "webpack --config webpack.config.js"
   },
   "keywords": ["button", "design-system", "library"],
-  "author": "Your Name",
+  "author": "Your Name", // Update this to reflect the actual author's name
   "license": "MIT",
   "description": "A library for creating customizable buttons in design systems.",
   "repository": {
