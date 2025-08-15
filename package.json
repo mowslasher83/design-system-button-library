@@ -7,5 +7,6 @@
   },
   "keywords": ["button", "design-system", "library"],
   "author": "Your Name",
-  "license": "MIT"
+  "license": "MIT",
+  "description": "A library for creating customizable buttons in design systems."
 }
