@@ -8,5 +8,9 @@
   "keywords": ["button", "design-system", "library"],
   "author": "Your Name",
   "license": "MIT",
-  "description": "A library for creating customizable buttons in design systems."
+  "description": "A library for creating customizable buttons in design systems.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/design-system-button-library.git"
+  }
 }
