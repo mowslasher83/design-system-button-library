@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "src/index.js",
   "scripts": {
-    "build": "echo 'Build script not defined'"
+    "build": "webpack --config webpack.config.js"
   },
   "keywords": ["button", "design-system", "library"],
   "author": "Your Name",
